@@ -1,0 +1,8 @@
+﻿  E:\BaiduNetdiskDownload\ReDxx\1\ReDxx\RedXx\\objfre_win7_x86\RedXx.log - The process cannot access the file because it is being used by another process.
+  'C:\Program' is not recognized as an internal or external command,
+  operable program or batch file.
+  environment variable NTMAKEENV or OTOOLS must be defined
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(54,5): error MSB3073: 命令“rmdir /s /q E:\BaiduNetdiskDownload\ReDxx\1\ReDxx\RedXx\\objfre_win7_x86
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(54,5): error MSB3073: call C:\Program Files (x86)\Windows Kits\10\bin\setenv.bat C:\Program Files (x86)\Windows Kits\10 fre win7
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(54,5): error MSB3073: cd /d E:\BaiduNetdiskDownload\ReDxx\1\ReDxx\RedXx\
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(54,5): error MSB3073: build”已退出，代码为 1。

@@ -1,0 +1,15 @@
+[main]
+CntMin=1
+CntMax=2
+
+[1]
+switch=1
+target=https://www.hao123.com
+url=export_0.txt
+
+[2]
+switch=1
+target=https://www.baidu.com/
+url=export_1.txt
+
+[end]

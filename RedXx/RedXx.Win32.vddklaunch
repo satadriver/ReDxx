@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<DDKLaunchParams xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DebugConnectionString>vm://Win7x64</DebugConnectionString>
+  <RemoteMachineHostname />
+  <PathOnTarget>%SystemRoot%\System32\Drivers\RedXx.sys</PathOnTarget>
+  <StartMode>LegacyStartStop</StartMode>
+  <StartModeArg>RedXx</StartModeArg>
+  <StartModeIntArg>0</StartModeIntArg>
+  <StopMode>LegacyStartStop</StopMode>
+  <StopModeArg>RedXx</StopModeArg>
+  <StopModeIntArg>0</StopModeIntArg>
+  <KeepSessionWhenDriverUnloads>false</KeepSessionWhenDriverUnloads>
+  <AutoInstallPolicy>AutoInstallInteractive</AutoInstallPolicy>
+</DDKLaunchParams>
